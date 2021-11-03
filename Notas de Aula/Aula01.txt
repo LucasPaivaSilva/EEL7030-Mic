@@ -1,0 +1,9 @@
+// Código para aula de MIC
+// Abrir legacy device database
+// Selecionar 8051ah
+// NAO NO PROMPT
+// Entrar na depuração
+// 8051 - > UCP - Memoria de programa - Memoória de dados - Periféricos 
+// Colocaremos código na memória de programa 
+// c: 0x0 - EA (MOV) A, Rn - 
+// 
